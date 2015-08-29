@@ -47,6 +47,9 @@ $ pip install requests unicodecsv
 ## Version 
 * Version 1.0
 
+## Alternatives
+http://tools.wmflabs.org/glamtools/treeviews/
+
 ## Contact
 #### Developer
 * Homepage: [danielwells.me](http://www.danielwells.me)
